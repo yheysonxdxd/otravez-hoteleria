@@ -5,7 +5,7 @@ spring:
     name: ms-cliente
 
   datasource:
-    url: jdbc:mysql://localhost:3309/ms_cliente
+    url: jdbc:mysql://localhost:3306/ms_cliente
     username: root
     password:
     driver-class-name: com.mysql.cj.jdbc.Driver
